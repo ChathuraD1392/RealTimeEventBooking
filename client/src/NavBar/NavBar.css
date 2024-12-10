@@ -1,0 +1,9 @@
+.container-fluid {
+  background-color: cadetblue;
+  color: white;
+  font-size: large;
+}
+
+.nav-item {
+  padding: 5px;
+}
